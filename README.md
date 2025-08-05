@@ -1,7 +1,7 @@
 ## Hi 👋
 
 
-  I have also done some superficial research on theoretical physics and pay attention to the application of physics knowledge in machine learning. I won the first prize in the 2024 National College Students Physics Competition.
+
 
 
 - 🔭 I am a student majoring in Artificial Intelligence, currently dedicated to the research of machine learning algorithms.
